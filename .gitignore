@@ -1,0 +1,4 @@
+data/
+my_env/
+__pycache__/
+artifacts/
